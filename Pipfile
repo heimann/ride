@@ -6,8 +6,10 @@ name = "pypi"
 [packages]
 click = "*"
 "e1839a8" = {path = ".", editable = true}
+python-cfonts = "*"
 
 [dev-packages]
+pylint = "*"
 
 [requires]
 python_version = "3.6"
